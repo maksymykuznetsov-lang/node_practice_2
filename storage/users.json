@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "username": "oleg",
+    "name": "Oleg",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "maksym",
+    "passwordHash": "$2b$10$3SN.I/Q2o2ob58I8ajcqoOM.E5b7A8pFCI204HpSplxmiZU8ls2wC",
+    "name": "Maksym",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "username": "testuser",
+    "passwordHash": "$2b$10$Nx9/NNFWddfpvhIm5Snd4..lfe4lbGPXRsA9zwDwEsoblowIpyfiK",
+    "name": "testuser",
+    "role": "user"
+  },
+  {
+    "id": 4,
+    "username": "testuser1",
+    "passwordHash": "$2b$10$1EzWK1ErEX259ovuVq.XRe/vVNBT7nQcLd0qHACDZG4lGSgqJlWkq",
+    "name": "testuser1",
+    "role": "user"
+  },
+  {
+    "id": 5,
+    "username": "superadmin",
+    "passwordHash": "$2b$10$NWLlg8kvxuMCl6x2RLq5ruICCn793ZBd.EhqFRuoy3Z7NpyyDztca",
+    "name": "superadmin",
+    "role": "admin"
+  }
+]

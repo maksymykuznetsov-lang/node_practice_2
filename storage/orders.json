@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "product": "MacBook Pro",
+    "amount": 2500
+  },
+  {
+    "id": 2,
+    "userId": 4,
+    "product": "iPhone 18",
+    "amount": 1000
+  }
+]
